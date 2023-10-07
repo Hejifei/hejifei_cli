@@ -1,0 +1,11 @@
+- chalk: 修改控制台中字符串的样式（字体样式加粗等／字体颜色／背景颜色
+- minimist: 轻量级的命令行解析工具
+- 和检查项目名是否符合 npm 规范的库：validate-npm-package-name
+- terminal 和用户交互的库：inquirer
+- 删除目录的库: fs-extra
+- ora —— 命令行 loading 效果
+
+
+## docts
+- https://xie.infoq.cn/article/c8fc6751ef7dd938ba4b2e5e3
+- https://juejin.cn/post/6844903999758401549
